@@ -1,0 +1,7 @@
+{
+  "name": "Promura Missed Payment",
+  "description": "An elite-level, Apple-inspired automated de-escalation and missed payment recovery system for agencies using GetMelon.io. Features automated tracking, AI-powered reliability analysis, and high-fidelity iOS aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
